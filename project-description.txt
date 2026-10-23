@@ -1,0 +1,3 @@
+## Project Title: Personal Portfolio Website ##
+
+This project is a personal portfolio website developed using HTML5 and CSS3. It showcases my introduction, educational background, technical skills, and projects, including the N-Queens Problem Solver and Student Profile Webpage. The website includes a navigation bar, project cards, and contact links for email and GitHub. CSS is used to style the layout, add hover effects, and make the website more suitable for smaller screens. Through this project, I gained practical experience in HTML structure, CSS styling, and responsive web design.
